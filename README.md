@@ -15,3 +15,6 @@
     <tr><td>done         </td><td> at 11:10 </td><td>   22min   </td></tr>
     <tr><td><strong>final</strong>        </td><td>          </td><td><strong>85min</strong></td></tr>
 </table>
+
+---
+<a href="http://dealeronclass.github.io/standard/" target="_blank">View Site</a>
