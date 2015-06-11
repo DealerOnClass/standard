@@ -103,7 +103,6 @@ strong {
 /*
  *  Components
  */
-
 /*  Layout   */
 .site__main, .site__footer {
     padding: 3em 0;
@@ -114,8 +113,6 @@ strong {
 .site__main {
     background-color: #333;
 }
-
-
 /*  Nav   */
 @media (min-width: 45em) {
     .nav__logo {
@@ -151,7 +148,6 @@ strong {
         padding-bottom: 1.5em;
     }
 }
-
 /*  Class   */
 .class__subject {
     text-transform: uppercase;
@@ -184,7 +180,6 @@ strong {
         left: -1.5em;
     }
 }
-
 /*  Progress Bar   */
 [class^="progress__bar--"] {
     position: relative;
