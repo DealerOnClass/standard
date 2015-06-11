@@ -16,11 +16,11 @@
     <tr><td><strong>final</strong>        </td><td>          </td><td><strong>86min</strong></td></tr>
 </table>
 
-####Polish - Clean-up CSS
+####Polish - Clean-up CSS & Document
 <table>
     <tr><td>start        </td><td> at 3:10 </td><td>           </td></tr>
-    <tr><td>done         </td><td> at 3:18 </td><td>   8min   </td></tr>
-    <tr><td><strong>foreal final</strong>        </td><td>          </td><td><strong>94min</strong></td></tr>
+    <tr><td>done         </td><td> at 3:40 </td><td>   30min   </td></tr>
+    <tr><td><strong>foreal final</strong>        </td><td>          </td><td><strong>116min</strong></td></tr>
 </table>
 
 ---
