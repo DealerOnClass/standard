@@ -13,7 +13,7 @@
 <table>
     <tr><td>start        </td><td> at 10:48 </td><td>           </td></tr>
     <tr><td>done         </td><td> at 11:10 </td><td>   22min   </td></tr>
-    <tr><td><strong>final</strong>        </td><td>          </td><td><strong>85min</strong></td></tr>
+    <tr><td><strong>final</strong>        </td><td>          </td><td><strong>86min</strong></td></tr>
 </table>
 
 ---
