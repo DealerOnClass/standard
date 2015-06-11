@@ -74,7 +74,7 @@ strong {
     margin: 0 auto;
 }
 .grid__row {
-    margin: 0 -1em;
+    margin: 0 -1em 3em;
 }
 [class^="grid__col--"] {
     padding: 0 1em;

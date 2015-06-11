@@ -1,4 +1,4 @@
-####Base - Setup, Markup & Css
+####Base - Setup, Markup & CSS
 <table>
     <tr><td>started      </td><td> at 7:35  </td><td>           </td></tr>
     <tr><td>uploaded git </td><td> at 7:39  </td><td>   4min    </td></tr>
@@ -14,6 +14,13 @@
     <tr><td>start        </td><td> at 10:48 </td><td>           </td></tr>
     <tr><td>done         </td><td> at 11:10 </td><td>   22min   </td></tr>
     <tr><td><strong>final</strong>        </td><td>          </td><td><strong>86min</strong></td></tr>
+</table>
+
+####Polish - Clean-up CSS
+<table>
+    <tr><td>start        </td><td> at 3:10 </td><td>           </td></tr>
+    <tr><td>done         </td><td> at 3:18 </td><td>   8min   </td></tr>
+    <tr><td><strong>foreal final</strong>        </td><td>          </td><td><strong>94min</strong></td></tr>
 </table>
 
 ---
