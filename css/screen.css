@@ -31,6 +31,7 @@ html {
     }
 }
 body {
+    min-width: 320px;
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5;
     color: #bdc4c0;
@@ -69,14 +70,14 @@ strong {
 }
 .grid__container {
     max-width: 1200px;
-    padding: 0 1.5em;
+    padding: 0 1em;
     margin: 0 auto;
 }
 .grid__row {
-    margin: 0 -1.5em;
+    margin: 0 -1em;
 }
 [class^="grid__col--"] {
-    padding: 0 1.5em;
+    padding: 0 1em;
 }
 @media (min-width: 55em) {
     [class^="grid__col--"] {
@@ -123,9 +124,15 @@ strong {
     .nav__menu {
         float: right;
     }
+    .nav__menu .nav__link {
+        padding-right: 1.5em;
+    }
+}
+.nav__logo .nav__link {
+    padding-bottom: 0;
 }
 .nav__menu .nav__link {
-    padding-right: 1.5em;
+    padding-right: .75em;
     color: #818683;
 }
 .nav__menu .nav__link:hover,
@@ -182,10 +189,11 @@ strong {
 [class^="progress__bar--"] {
     position: relative;
     width: 100%;
-    height: .5em;
+    height: .8em;
     background-color: #2a2a2a;
     border: .2em solid #2a2a2a;
     border-radius: .35em;
+    box-sizing: border-box;
 }
 [class^="progress__bar--"]:before {
     content: "";
