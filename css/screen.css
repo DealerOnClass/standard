@@ -57,12 +57,12 @@ strong {
  */
 .grid__container,
 .grid__row,
-[class^="grid__col"] {
+[class^="grid__col--"] {
     box-sizing: border-box;
 }
 .grid__container:after,
 .grid__row:after,
-[class^="grid__col"]:after {
+[class^="grid__col--"]:after {
     content: "";
     clear: both;
     display: table;
@@ -75,11 +75,11 @@ strong {
 .grid__row {
     margin: 0 -1.5em;
 }
-[class^="grid__col"] {
+[class^="grid__col--"] {
     padding: 0 1.5em;
 }
 @media (min-width: 55em) {
-    [class^="grid__col"] {
+    [class^="grid__col--"] {
         float: left;
     }   
     .grid__col--1-3 {
