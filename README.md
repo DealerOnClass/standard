@@ -1,15 +1,19 @@
 ####Base - Setup, Markup & Css
 ---
-| started      | at 7:35  |
-| uploaded git | at 7:39  |   4min
-| markup done  | at 7:58  |   19min
-| pause        | at 8:10  |   12min
-| continue     | at 10:16 |        
-| css done     | at 10:45 |   29min
-| **total**    |          |   64min  
+<table>
+    <tr><td>started      </td><td> at 7:35  </td><td>           </td></tr>
+    <tr><td>uploaded git </td><td> at 7:39  </td><td>   4min    </td></tr>
+    <tr><td>markup done  </td><td> at 7:58  </td><td>   19min   </td></tr>
+    <tr><td>pause        </td><td> at 8:10  </td><td>   12min   </td></tr>
+    <tr><td>continue     </td><td> at 10:16 </td><td>           </td></tr>
+    <tr><td>css done     </td><td> at 10:45 </td><td>   29min   </td></tr>
+    <tr><td>total        </td><td>          </td><td>   64min   </td></tr>
+</table>
 
 ####Bonus - Responsive CSS
 ---
-| start        | at 10:48 |
-| done         | at 11:10 |   22min
-| **final**    |          |   85min
+<table>
+    <tr><td>start        </td><td> at 10:48 </td><td>           </td></tr>
+    <tr><td>done         </td><td> at 11:10 </td><td>   22min   </td></tr>
+    <tr><td>final        </td><td>          </td><td>   85min   </td></tr>
+</table>
