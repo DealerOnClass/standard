@@ -158,7 +158,7 @@ strong {
     padding-top: .75em;
     padding-bottom: .75em;
 }
-@media (min-width: 45em) {
+@media (min-width: 31em) {
     .nav__logo {
         float: left;
     }
