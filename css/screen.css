@@ -53,16 +53,15 @@ body {
     line-height: 1.5;
     color: #bdc4c0;
 }
-h2, h5 {
-    line-height: 1;
-}
 h2 {
     font-size: 2em;
     font-weight: 300;
+    line-height: 1;
     margin: 1.5em 0;
 }
 h5 {
     margin-bottom: 1em;
+    line-height: 1.5;    
 }
 p {
     margin-bottom: 1.5em;
@@ -100,6 +99,9 @@ strong {
     padding: 0 1em;
 }
 @media (min-width: 45em) {
+    .grid__container {
+        padding: 0 2em;
+    }
     .grid__col--right {
         float: right;
     }
@@ -223,6 +225,7 @@ strong {
     border: .2em solid #2a2a2a;
     border-radius: .35em;
     box-sizing: border-box;
+    margin-bottom: 1.2em;
 }
 [class^="progress__bar--"]:before {
     content: "";
