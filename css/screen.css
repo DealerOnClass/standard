@@ -103,6 +103,9 @@ strong {
     .grid__col--right {
         float: right;
     }
+    .grid__col--left {
+        float: left;
+    }
     .grid__col--table {
         width: 10000px;
         display: table-cell;
